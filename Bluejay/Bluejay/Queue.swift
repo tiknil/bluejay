@@ -126,9 +126,16 @@ class Queue {
                 }
             }
         }
-
+        
         if isCBCentralManagerReady {
-            precondition(queue.isEmpty, "Queue is active and is not emptied at the end of cancel all.")
+            precondition(queue.isEmpty || queue.contains(where: { queueable -> Bool in
+                switch queueable.state {
+                case .failed:
+                    return true
+                default:
+                    return false
+                }
+            }), "Queue is active and is not emptied at the end of cancel all.")
         } else {
             precondition(!queue.contains { queueable -> Bool in
                 !queueable.state.isFinished
