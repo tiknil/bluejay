@@ -128,14 +128,14 @@ class Queue {
         }
         
         if isCBCentralManagerReady {
-            precondition(queue.isEmpty || queue.contains(where: { queueable -> Bool in
+            precondition(queue.filter({ queueable -> Bool in
                 switch queueable.state {
                 case .failed:
                     return false
                 default:
                     return true
                 }
-            }), "Queue is active and is not emptied at the end of cancel all.")
+                }).count == 0, "Queue is active and is not emptied at the end of cancel all.")
         } else {
             precondition(!queue.contains { queueable -> Bool in
                 !queueable.state.isFinished
