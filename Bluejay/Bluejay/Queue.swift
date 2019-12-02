@@ -131,9 +131,9 @@ class Queue {
             precondition(queue.isEmpty || queue.contains(where: { queueable -> Bool in
                 switch queueable.state {
                 case .failed:
-                    return true
-                default:
                     return false
+                default:
+                    return true
                 }
             }), "Queue is active and is not emptied at the end of cancel all.")
         } else {
