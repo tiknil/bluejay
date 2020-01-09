@@ -25,6 +25,16 @@ public struct WarningOptions {
         ]
     }
 
+    var customDictionary: [String: Bool] = [:]
+
+    var effectiveDictionary: [String: Bool] {
+        var result = dictionary
+        for (key, value) in customDictionary {
+            result[key] = value
+        }
+        return result
+    }
+
     /**
      Creates a connection options that can specify whether iOS can display a system alert when certain conditions are met while your app is suspended, usually an alert dialog outside of your app in the Home screen for example.
 
