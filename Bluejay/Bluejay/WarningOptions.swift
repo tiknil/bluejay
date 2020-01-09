@@ -25,7 +25,7 @@ public struct WarningOptions {
         ]
     }
 
-    var customDictionary: [String: Bool] = [:]
+    public var customDictionary: [String: Bool] = [:]
 
     var effectiveDictionary: [String: Bool] {
         var result = dictionary
