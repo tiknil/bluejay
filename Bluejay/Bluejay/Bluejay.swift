@@ -571,8 +571,8 @@ public class Bluejay: NSObject { //swiftlint:disable:this type_body_length
     public func retrieveConnectedPeripherals(with services: [CBUUID]) -> [ScanDiscovery] {
         if let centralManager = cbCentralManager {
             let cbPeripherals = centralManager.retrieveConnectedPeripherals(withServices: services)
-            let scanDiscoveries: [ScanDiscovery] = cbPeripherals.map { cbPeripheral -> PeripheralIdentifier in
-                let peripheralIdentifier PeripheralIdentifier(uuid: cbPeripheral.identifier, name: cbPeripheral.name)
+            let scanDiscoveries: [ScanDiscovery] = cbPeripherals.map { cbPeripheral -> ScanDiscovery in
+                let peripheralIdentifier = PeripheralIdentifier(uuid: cbPeripheral.identifier, name: cbPeripheral.name)
                 return ScanDiscovery(peripheralIdentifier: peripheralIdentifier, advertisementPacket: [:], rssi: 0)
             }
             return scanDiscoveries
