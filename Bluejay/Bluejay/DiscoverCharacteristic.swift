@@ -55,7 +55,8 @@ class DiscoverCharacteristic: Operation {
                 success()
             }
         } else {
-            precondition(false, "Unexpected event response: \(event)")
+            print("Bluejay - DiscoverCharacteristic - Unexpected event response: \(event)")
+            //precondition(false, "Unexpected event response: \(event)")
         }
     }
 
