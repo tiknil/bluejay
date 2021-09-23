@@ -19,33 +19,33 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		0FC4AE50892C2840B7E7E8A67744D12D /* Pods-Bluejay-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ECCFCA3AA8794015B485E2FC002180CD /* Pods-Bluejay-dummy.m */; };
-		108EE2404999A4D2F11B77AD3DE54B83 /* Pods-DittojayHeartSensorDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 520D06C17C826D43F876A9A141E77BD8 /* Pods-DittojayHeartSensorDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1234519BE600FEDFA199A5FD588EA5BD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		1F7925D85395361FE5CD8F4915423654 /* Pods-DittojayHeartSensorDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A7FDEE34CC5B6524F442CB2E89846170 /* Pods-DittojayHeartSensorDemo-dummy.m */; };
-		3253DF6BAD8AAE8DFA6C31249D352B9C /* Pods-BluejayHeartSensorDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 27954B6392181798F91698050536AAC8 /* Pods-BluejayHeartSensorDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		77277DEB304F98F9948DC32F00E6C488 /* Pods-Bluejay-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 22329A0F7AC39EEEB5D3A414393C1F11 /* Pods-Bluejay-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8DBE4CB740EA3B4CBE30EC1639107CC8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		9FA9FD322FC6359AE958665414BAA964 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		DF4A419A06E4FB6A9B0BD431A9903121 /* Pods-BluejayHeartSensorDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE651426D2A8BAD38D0E3D14288320E6 /* Pods-BluejayHeartSensorDemo-dummy.m */; };
+		2A3B7A67BF707FCD32C9393CFF9B8417 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		3504823E59F2DB36B72E8C94F607FC11 /* Pods-DittojayHeartSensorDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A7FDEE34CC5B6524F442CB2E89846170 /* Pods-DittojayHeartSensorDemo-dummy.m */; };
+		415B546FF5C927B88742D72FF063A9D3 /* Pods-Bluejay-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 22329A0F7AC39EEEB5D3A414393C1F11 /* Pods-Bluejay-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		50C776930ABF2D4F82DF3F4597AD6B0D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		51F42E3A48B921F099009BB49BBE7503 /* Pods-BluejayHeartSensorDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE651426D2A8BAD38D0E3D14288320E6 /* Pods-BluejayHeartSensorDemo-dummy.m */; };
+		8077314D787571FE5A93D318ED81AD89 /* Pods-DittojayHeartSensorDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 520D06C17C826D43F876A9A141E77BD8 /* Pods-DittojayHeartSensorDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AC7DBBAA5633741EE06009ED3B950DAE /* Pods-BluejayHeartSensorDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 27954B6392181798F91698050536AAC8 /* Pods-BluejayHeartSensorDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B8A415283B6D1CA385B4FCDEF7586530 /* Pods-Bluejay-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ECCFCA3AA8794015B485E2FC002180CD /* Pods-Bluejay-dummy.m */; };
+		C682D7A95B00025B066FACD650C61D2D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		34C3DC11632FF1B2EFEAE69570CA99A2 /* PBXContainerItemProxy */ = {
+		3CB835448848F26744684E6999515140 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 52B60EC2A583F24ACBB69C113F5488B9;
 			remoteInfo = SwiftLint;
 		};
-		84600E527A42D19D9F084F29594D1122 /* PBXContainerItemProxy */ = {
+		99995FD99AD64C41FAB6446997C772F8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 52B60EC2A583F24ACBB69C113F5488B9;
 			remoteInfo = SwiftLint;
 		};
-		883E0229C18DF9F717585AD55E7E4B1E /* PBXContainerItemProxy */ = {
+		E5DD7934568FE4481AEAB1AE7E895D12 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -57,7 +57,6 @@
 /* Begin PBXFileReference section */
 		22329A0F7AC39EEEB5D3A414393C1F11 /* Pods-Bluejay-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Bluejay-umbrella.h"; sourceTree = "<group>"; };
 		27954B6392181798F91698050536AAC8 /* Pods-BluejayHeartSensorDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BluejayHeartSensorDemo-umbrella.h"; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3EC0124719FE8EF5FDDD72C26F8A2F57 /* SwiftLint.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftLint.debug.xcconfig; sourceTree = "<group>"; };
 		50F51F1429DF3EE6DEA6AA7FF578D2CB /* Pods-Bluejay-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Bluejay-Info.plist"; sourceTree = "<group>"; };
 		520D06C17C826D43F876A9A141E77BD8 /* Pods-DittojayHeartSensorDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DittojayHeartSensorDemo-umbrella.h"; sourceTree = "<group>"; };
@@ -66,6 +65,7 @@
 		63F16166F636E216CBA3EA2130455070 /* Pods-BluejayHeartSensorDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BluejayHeartSensorDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		67D7EE63C087DE045026ADEF246201C0 /* Pods-BluejayHeartSensorDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BluejayHeartSensorDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		701DE9C1A107FDCCA93B4A4EB5C39BE1 /* Pods-Bluejay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Bluejay.debug.xcconfig"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7322117B6D811ED859674DBC411DD64C /* Pods-Bluejay.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Bluejay.modulemap"; sourceTree = "<group>"; };
 		7C60392DFF88D2C889A20F5BBA81A7F2 /* Pods-BluejayHeartSensorDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BluejayHeartSensorDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7D5B0CB3171CA94981C97B829F54D07C /* Pods-DittojayHeartSensorDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DittojayHeartSensorDemo-Info.plist"; sourceTree = "<group>"; };
@@ -89,27 +89,27 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1EA18CEBE767AB539212EC7833AC648B /* Frameworks */ = {
+		9A4798184464ECAE3C23E08649D60CC9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8DBE4CB740EA3B4CBE30EC1639107CC8 /* Foundation.framework in Frameworks */,
+				50C776930ABF2D4F82DF3F4597AD6B0D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EBE52A919E7F9F4816F01C3F484416F4 /* Frameworks */ = {
+		A025B50A1D2ABEF34794DD11C43BD96D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9FA9FD322FC6359AE958665414BAA964 /* Foundation.framework in Frameworks */,
+				2A3B7A67BF707FCD32C9393CFF9B8417 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F5C26FF31F2E4B84B6E21BDE9FD368EA /* Frameworks */ = {
+		E0E2BCDAE648F04D23C06A20C3A3936E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1234519BE600FEDFA199A5FD588EA5BD /* Foundation.framework in Frameworks */,
+				C682D7A95B00025B066FACD650C61D2D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +148,14 @@
 			path = "Target Support Files/Pods-DittojayHeartSensorDemo";
 			sourceTree = "<group>";
 		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 		7FDA596DBE0337ACDFE55A210D54EF26 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -182,14 +190,6 @@
 			path = "Target Support Files/Pods-BluejayHeartSensorDemo";
 			sourceTree = "<group>";
 		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		C4DBEF5BB4588920E032EEE271D92502 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -214,7 +214,7 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -241,27 +241,27 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		3854B0D30B5BA472C174650ADA7C4641 /* Headers */ = {
+		3DE56CF59E502D04185890F49063F332 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				108EE2404999A4D2F11B77AD3DE54B83 /* Pods-DittojayHeartSensorDemo-umbrella.h in Headers */,
+				415B546FF5C927B88742D72FF063A9D3 /* Pods-Bluejay-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		599D6DA856490E32BB57FCB8C2DDAF37 /* Headers */ = {
+		C5310661E4EEBB8648FDABBF7D401191 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77277DEB304F98F9948DC32F00E6C488 /* Pods-Bluejay-umbrella.h in Headers */,
+				8077314D787571FE5A93D318ED81AD89 /* Pods-DittojayHeartSensorDemo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B17E249538FDE8AF5F20D26B780D271E /* Headers */ = {
+		F350BEC696522D0212909CF7385A098B /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3253DF6BAD8AAE8DFA6C31249D352B9C /* Pods-BluejayHeartSensorDemo-umbrella.h in Headers */,
+				AC7DBBAA5633741EE06009ED3B950DAE /* Pods-BluejayHeartSensorDemo-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,17 +270,17 @@
 /* Begin PBXNativeTarget section */
 		48F2766EA798094EF173F301796CF1BD /* Pods-Bluejay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 43D3DE1392C45179009474445BE38DE3 /* Build configuration list for PBXNativeTarget "Pods-Bluejay" */;
+			buildConfigurationList = 4BCFF6E9738503E354CD82CC3B36862A /* Build configuration list for PBXNativeTarget "Pods-Bluejay" */;
 			buildPhases = (
-				599D6DA856490E32BB57FCB8C2DDAF37 /* Headers */,
-				3D001A06128F0D3203EF261814B6DAA0 /* Sources */,
-				F5C26FF31F2E4B84B6E21BDE9FD368EA /* Frameworks */,
-				1213253CF8840322209A381950C76D5F /* Resources */,
+				3DE56CF59E502D04185890F49063F332 /* Headers */,
+				27F90CCE3C7E71B3F1DC970E7312DDEE /* Sources */,
+				E0E2BCDAE648F04D23C06A20C3A3936E /* Frameworks */,
+				6203A31285861072BC43DBBC89CFE0E9 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A48D66DB8EF61E367ECB839D6769BFA4 /* PBXTargetDependency */,
+				0EBD27CE50945C5123BBDCB05E090A78 /* PBXTargetDependency */,
 			);
 			name = "Pods-Bluejay";
 			productName = "Pods-Bluejay";
@@ -289,17 +289,17 @@
 		};
 		8D13CE4E165CF45E4644794623D84038 /* Pods-BluejayHeartSensorDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1B37A679853DFB0AFBBF7968C4B217CE /* Build configuration list for PBXNativeTarget "Pods-BluejayHeartSensorDemo" */;
+			buildConfigurationList = 6822877C79DE4ED5402BD368394733C2 /* Build configuration list for PBXNativeTarget "Pods-BluejayHeartSensorDemo" */;
 			buildPhases = (
-				B17E249538FDE8AF5F20D26B780D271E /* Headers */,
-				7E8A78F504BD002E0E9D4CB7B8309CE7 /* Sources */,
-				EBE52A919E7F9F4816F01C3F484416F4 /* Frameworks */,
-				A7C7D462BD4C2797674D70D930629A82 /* Resources */,
+				F350BEC696522D0212909CF7385A098B /* Headers */,
+				6CD3BB2407F55A7674D8E3C77643BC78 /* Sources */,
+				A025B50A1D2ABEF34794DD11C43BD96D /* Frameworks */,
+				40EE871742BCCE8C27796EB7290D401B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0905A76036CCAD2CF21CB093D509ECE1 /* PBXTargetDependency */,
+				ECE59E0E3836F01A510C0FB7FFA517E7 /* PBXTargetDependency */,
 			);
 			name = "Pods-BluejayHeartSensorDemo";
 			productName = "Pods-BluejayHeartSensorDemo";
@@ -308,17 +308,17 @@
 		};
 		8E6EF21DA222B174EA09B354F04FD237 /* Pods-DittojayHeartSensorDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2FE7EEE9A35A230D82DAFCD65637159A /* Build configuration list for PBXNativeTarget "Pods-DittojayHeartSensorDemo" */;
+			buildConfigurationList = 255DB48D9B6CE1E77EB58D91B1CDFDCB /* Build configuration list for PBXNativeTarget "Pods-DittojayHeartSensorDemo" */;
 			buildPhases = (
-				3854B0D30B5BA472C174650ADA7C4641 /* Headers */,
-				2F563F04E1FFED58DCE184197A7A70D3 /* Sources */,
-				1EA18CEBE767AB539212EC7833AC648B /* Frameworks */,
-				2F58F0178B8D984F2D944FD59796B826 /* Resources */,
+				C5310661E4EEBB8648FDABBF7D401191 /* Headers */,
+				13463BB5520709F21E6DCEF109F09491 /* Sources */,
+				9A4798184464ECAE3C23E08649D60CC9 /* Frameworks */,
+				B17213F857FC5EA5311DE63E3AF1AC73 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				51F623C03821B81C08D819543F2D0F55 /* PBXTargetDependency */,
+				A380840D2F2BB6507E698AAC86F0A0C3 /* PBXTargetDependency */,
 			);
 			name = "Pods-DittojayHeartSensorDemo";
 			productName = "Pods-DittojayHeartSensorDemo";
@@ -331,8 +331,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -356,21 +356,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1213253CF8840322209A381950C76D5F /* Resources */ = {
+		40EE871742BCCE8C27796EB7290D401B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2F58F0178B8D984F2D944FD59796B826 /* Resources */ = {
+		6203A31285861072BC43DBBC89CFE0E9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A7C7D462BD4C2797674D70D930629A82 /* Resources */ = {
+		B17213F857FC5EA5311DE63E3AF1AC73 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -380,111 +380,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		2F563F04E1FFED58DCE184197A7A70D3 /* Sources */ = {
+		13463BB5520709F21E6DCEF109F09491 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F7925D85395361FE5CD8F4915423654 /* Pods-DittojayHeartSensorDemo-dummy.m in Sources */,
+				3504823E59F2DB36B72E8C94F607FC11 /* Pods-DittojayHeartSensorDemo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3D001A06128F0D3203EF261814B6DAA0 /* Sources */ = {
+		27F90CCE3C7E71B3F1DC970E7312DDEE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0FC4AE50892C2840B7E7E8A67744D12D /* Pods-Bluejay-dummy.m in Sources */,
+				B8A415283B6D1CA385B4FCDEF7586530 /* Pods-Bluejay-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7E8A78F504BD002E0E9D4CB7B8309CE7 /* Sources */ = {
+		6CD3BB2407F55A7674D8E3C77643BC78 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DF4A419A06E4FB6A9B0BD431A9903121 /* Pods-BluejayHeartSensorDemo-dummy.m in Sources */,
+				51F42E3A48B921F099009BB49BBE7503 /* Pods-BluejayHeartSensorDemo-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0905A76036CCAD2CF21CB093D509ECE1 /* PBXTargetDependency */ = {
+		0EBD27CE50945C5123BBDCB05E090A78 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SwiftLint;
 			target = 52B60EC2A583F24ACBB69C113F5488B9 /* SwiftLint */;
-			targetProxy = 34C3DC11632FF1B2EFEAE69570CA99A2 /* PBXContainerItemProxy */;
+			targetProxy = E5DD7934568FE4481AEAB1AE7E895D12 /* PBXContainerItemProxy */;
 		};
-		51F623C03821B81C08D819543F2D0F55 /* PBXTargetDependency */ = {
+		A380840D2F2BB6507E698AAC86F0A0C3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SwiftLint;
 			target = 52B60EC2A583F24ACBB69C113F5488B9 /* SwiftLint */;
-			targetProxy = 84600E527A42D19D9F084F29594D1122 /* PBXContainerItemProxy */;
+			targetProxy = 99995FD99AD64C41FAB6446997C772F8 /* PBXContainerItemProxy */;
 		};
-		A48D66DB8EF61E367ECB839D6769BFA4 /* PBXTargetDependency */ = {
+		ECE59E0E3836F01A510C0FB7FFA517E7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SwiftLint;
 			target = 52B60EC2A583F24ACBB69C113F5488B9 /* SwiftLint */;
-			targetProxy = 883E0229C18DF9F717585AD55E7E4B1E /* PBXContainerItemProxy */;
+			targetProxy = 3CB835448848F26744684E6999515140 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1438FA7651733B8F1D3BEC119DCFD7B2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 701DE9C1A107FDCCA93B4A4EB5C39BE1 /* Pods-Bluejay.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		17CA3FA3AE34431A344A39057819E5E7 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3EC0124719FE8EF5FDDD72C26F8A2F57 /* SwiftLint.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		19B88A2A0ED1AFB73B2366B953F223C8 /* Release */ = {
+		01F31F3E39B0C0F261BA7BA38FCEB503 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 83BE8150D7C053A6E88A31E8CD01D615 /* Pods-BluejayHeartSensorDemo.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -513,10 +463,149 @@
 			};
 			name = Release;
 		};
-		257497152829C177993B5EC99C1D227A /* Release */ = {
+		39F2204595712F6F941B84E42627D778 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F44A20BCCCB779D556061457D1D37A0D /* Pods-Bluejay.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3DAA0E8DA5DC625C74C1A6D8DEE37350 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E990108D86AF67246AD53A546BD973D7 /* Pods-DittojayHeartSensorDemo.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3F51F276D74430348FC8580E81E5D778 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 701DE9C1A107FDCCA93B4A4EB5C39BE1 /* Pods-Bluejay.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		67FEBEF45420D429968D513738F1E008 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 63F16166F636E216CBA3EA2130455070 /* Pods-BluejayHeartSensorDemo.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-BluejayHeartSensorDemo/Pods-BluejayHeartSensorDemo-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-BluejayHeartSensorDemo/Pods-BluejayHeartSensorDemo.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		903A0004D3E6651EFD5D2E16214D101B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -539,6 +628,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -573,119 +663,13 @@
 			};
 			name = Release;
 		};
-		3B6AAFFF7879A483527F1A4239663533 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F44A20BCCCB779D556061457D1D37A0D /* Pods-Bluejay.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Bluejay/Pods-Bluejay.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		6842ABDB6465F130C7FEF5EB9914319B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 63F16166F636E216CBA3EA2130455070 /* Pods-BluejayHeartSensorDemo.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-BluejayHeartSensorDemo/Pods-BluejayHeartSensorDemo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-BluejayHeartSensorDemo/Pods-BluejayHeartSensorDemo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		A61AE98A512BA56739E3E7915CB28A43 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = BCE88BF58128BB2788FE29EBDEBB9181 /* Pods-DittojayHeartSensorDemo.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		CD1EFF489191A6C2906F500586741B2A /* Release */ = {
+		906949EA1FE936B86CF3CBE88F66F23A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7EAB1DA481EDDC005A251D3A5E6BE4CD /* SwiftLint.release.xcconfig */;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				SDKROOT = iphoneos;
@@ -694,46 +678,25 @@
 			};
 			name = Release;
 		};
-		D89B782AC68470BC79B8EF35CA17F72F /* Release */ = {
+		A4FCC606B3C1651C3B96FD74BB358F8C /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E990108D86AF67246AD53A546BD973D7 /* Pods-DittojayHeartSensorDemo.release.xcconfig */;
+			baseConfigurationReference = 3EC0124719FE8EF5FDDD72C26F8A2F57 /* SwiftLint.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		DD8F832993327D1DD8046C3CBCBD97CD /* Debug */ = {
+		B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -756,6 +719,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -794,32 +758,48 @@
 			};
 			name = Debug;
 		};
+		B80D51ACA9C9D405ABF69D3A53F30D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = BCE88BF58128BB2788FE29EBDEBB9181 /* Pods-DittojayHeartSensorDemo.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-DittojayHeartSensorDemo/Pods-DittojayHeartSensorDemo.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1B37A679853DFB0AFBBF7968C4B217CE /* Build configuration list for PBXNativeTarget "Pods-BluejayHeartSensorDemo" */ = {
+		255DB48D9B6CE1E77EB58D91B1CDFDCB /* Build configuration list for PBXNativeTarget "Pods-DittojayHeartSensorDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6842ABDB6465F130C7FEF5EB9914319B /* Debug */,
-				19B88A2A0ED1AFB73B2366B953F223C8 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2FE7EEE9A35A230D82DAFCD65637159A /* Build configuration list for PBXNativeTarget "Pods-DittojayHeartSensorDemo" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A61AE98A512BA56739E3E7915CB28A43 /* Debug */,
-				D89B782AC68470BC79B8EF35CA17F72F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		43D3DE1392C45179009474445BE38DE3 /* Build configuration list for PBXNativeTarget "Pods-Bluejay" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1438FA7651733B8F1D3BEC119DCFD7B2 /* Debug */,
-				3B6AAFFF7879A483527F1A4239663533 /* Release */,
+				B80D51ACA9C9D405ABF69D3A53F30D92 /* Debug */,
+				3DAA0E8DA5DC625C74C1A6D8DEE37350 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -827,8 +807,26 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DD8F832993327D1DD8046C3CBCBD97CD /* Debug */,
-				257497152829C177993B5EC99C1D227A /* Release */,
+				B4EFE046ACF8F37157F6E322C7FCFC28 /* Debug */,
+				903A0004D3E6651EFD5D2E16214D101B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4BCFF6E9738503E354CD82CC3B36862A /* Build configuration list for PBXNativeTarget "Pods-Bluejay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F51F276D74430348FC8580E81E5D778 /* Debug */,
+				39F2204595712F6F941B84E42627D778 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6822877C79DE4ED5402BD368394733C2 /* Build configuration list for PBXNativeTarget "Pods-BluejayHeartSensorDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				67FEBEF45420D429968D513738F1E008 /* Debug */,
+				01F31F3E39B0C0F261BA7BA38FCEB503 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -836,8 +834,8 @@
 		AE7B4FB01588B9E6DF09CB79FC7CE7BD /* Build configuration list for PBXAggregateTarget "SwiftLint" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				17CA3FA3AE34431A344A39057819E5E7 /* Debug */,
-				CD1EFF489191A6C2906F500586741B2A /* Release */,
+				A4FCC606B3C1651C3B96FD74BB358F8C /* Debug */,
+				906949EA1FE936B86CF3CBE88F66F23A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
