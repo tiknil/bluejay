@@ -465,6 +465,26 @@ public class Bluejay: NSObject { //swiftlint:disable:this type_body_length
         disconnectHandler = nil
     }
 
+    // MARK: - Retrieve connected peripherals
+
+    /**
+     Retrieve system bluetooth connected peripherals with requested services
+     
+     - Parameter services: array of services that already system bluetooth connected peripherals has to have
+     - Returns: already system bluetooth connected peripherals with requested services
+     */
+    public func retrieveConnectedPeripherals(with services: [CBUUID]) -> [ScanDiscovery] {
+        if let centralManager = cbCentralManager {
+            let cbPeripherals = centralManager.retrieveConnectedPeripherals(withServices: services)
+            let scanDiscoveries: [ScanDiscovery] = cbPeripherals.map { cbPeripheral -> ScanDiscovery in
+                let peripheralIdentifier = PeripheralIdentifier(uuid: cbPeripheral.identifier, name: cbPeripheral.name)
+                return ScanDiscovery(peripheralIdentifier: peripheralIdentifier, advertisementPacket: [:], rssi: 0)
+            }
+            return scanDiscoveries
+        }
+        return []
+    }
+
     // MARK: - Scanning
 
     /**

@@ -57,7 +57,7 @@ class Connection: Queueable {
 
     func start() {
         state = .running
-        manager.connect(peripheral, options: warningOptions.dictionary)
+        manager.connect(peripheral, options: warningOptions.effectiveDictionary)
 
         cancelTimer()
 
