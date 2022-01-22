@@ -337,7 +337,13 @@ extension Peripheral: CBPeripheralDelegate {
 
     /// Captures CoreBluetooth's did turn on or off notification/listening on a characteristic event and pass it to Bluejay's queue for processing.
     public func peripheral(_ peripheral: CBPeripheral, didUpdateNotificationStateFor characteristic: CBCharacteristic, error: Error?) {
-        handle(event: .didUpdateCharacteristicNotificationState(characteristic), error: error as NSError?)
+        if let nsError = error as NSError?, nsError.domain == "CBATTErrorDomain" && nsError.code == 10 {
+            debugLog("received \(nsError) and ignored")
+            handle(event: .didUpdateCharacteristicNotificationState(characteristic), error: nil)
+        }else{
+            handle(event: .didUpdateCharacteristicNotificationState(characteristic), error: error as NSError?)
+        }
+        
     }
 
     /// Captures CoreBluetooth's did read RSSI event and pass it to Bluejay's queue for processing.
