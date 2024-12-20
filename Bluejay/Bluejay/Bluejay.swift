@@ -485,6 +485,14 @@ public class Bluejay: NSObject { //swiftlint:disable:this type_body_length
         }
         return []
     }
+    
+    public func retrieveConnectedCBPeripherals(with services: [CBUUID]) -> [CBPeripheral] {
+        if let centralManager = cbCentralManager {
+            let cbPeripherals = centralManager.retrieveConnectedPeripherals(withServices: services)
+            return cbPeripherals
+        }
+        return []
+    }
 
     // MARK: - Scanning
 
